@@ -1,3 +1,8 @@
 
+<<<<<<< HEAD
 ihelo
 is it added  
+=======
+ihelo 
+i added this line 
+>>>>>>> origin/master
